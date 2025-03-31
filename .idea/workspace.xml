@@ -5,13 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="035d3c14-824b-419c-9dad-06c0b9d3702e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/2_entrada de datos/Pronblema1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2_entrada de datos/proyecto2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2_entrada de datos/proyecto5.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2_entrada de datos/proyecto6.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/2_entrada de datos/proyecto7.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/4_Estructura_condicional_como_expresion/Ejercicio8.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/4_Estructura_condicional_como_expresion/Ejercicio9.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/4_Estructura_condicional_como_expresion/Problema3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/4_Estructura_condicional_como_expresion/problema1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/4_Estructura_condicional_como_expresion/problema2.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/3_Estructura_condicional_IF/Ejercicio6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/3_Estructura_condicional_IF/Ejercicio6.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/3_Estructura_condicional_IF/Ejercicio7.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/3_Estructura_condicional_IF/Ejercicio7.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Kotlin.EjemplosKt.executor": "Run",
+    "Kotlin.Ejercicio8Kt.executor": "Run",
+    "Kotlin.Ejercicio9Kt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.Problema1Kt.executor": "Run",
+    "Kotlin.Problema2Kt.executor": "Run",
+    "Kotlin.Problema3Kt.executor": "Run",
     "Kotlin.Proyecto2Kt (1).executor": "Run",
     "Kotlin.Proyecto2Kt.executor": "Run",
     "Kotlin.Proyecto5Kt.executor": "Run",
@@ -56,37 +62,37 @@
     "onboarding.tips.debug.path": "C:/Users/Estudiante/IdeaProjects/Kotlin/src/Main.kt"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.Proyecto2Kt (1)">
-    <configuration name="Proyecto2Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="2_entrada de datos.Proyecto2Kt" />
+  <component name="RunManager" selected="Kotlin.Problema3Kt">
+    <configuration name="Ejercicio8Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="4_Estructura_condicional_como_expresion.Ejercicio8Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Proyecto2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="1_tipos_de_variables.Proyecto2Kt" />
+    <configuration name="Ejercicio9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="4_Estructura_condicional_como_expresion.Ejercicio9Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Proyecto5Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="2_entrada de datos.Proyecto5Kt" />
+    <configuration name="Problema1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="4_Estructura_condicional_como_expresion.Problema1Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Proyecto6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="2_entrada de datos.Proyecto6Kt" />
+    <configuration name="Problema2Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="4_Estructura_condicional_como_expresion.Problema2Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Proyecto7Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="2_entrada de datos.Proyecto7Kt" />
+    <configuration name="Problema3Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="4_Estructura_condicional_como_expresion.Problema3Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -94,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.Proyecto2Kt (1)" />
-        <item itemvalue="Kotlin.Proyecto7Kt" />
-        <item itemvalue="Kotlin.Proyecto6Kt" />
-        <item itemvalue="Kotlin.Proyecto5Kt" />
-        <item itemvalue="Kotlin.Proyecto2Kt" />
+        <item itemvalue="Kotlin.Problema3Kt" />
+        <item itemvalue="Kotlin.Problema2Kt" />
+        <item itemvalue="Kotlin.Problema1Kt" />
+        <item itemvalue="Kotlin.Ejercicio9Kt" />
+        <item itemvalue="Kotlin.Ejercicio8Kt" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +135,15 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-function">
+          <url>file://$PROJECT_DIR$/src/4_Estructura_condicional_como_expresion/problema2.kt</url>
+          <line>9</line>
+          <properties method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
