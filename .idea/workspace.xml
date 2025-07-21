@@ -5,14 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="035d3c14-824b-419c-9dad-06c0b9d3702e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Estructuras_condicionales_anidadas/Ejercicio10.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Estructuras_condicionales_anidadas/Ejercicio11.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Estructuras_condicionales_anidadas/problema1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Estructuras_condicionales_anidadas/problema2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Estructuras_condicionales_anidadas/problema3.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_POO_Conceptos/Ejericio53.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_POO_Conceptos/ejercicio54.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/21_POO_Conceptos/problema1.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22_POO_Costructor/Ejercicio55.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22_POO_Costructor/Ejercicio56.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22_POO_Costructor/Ejercicio57.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22_POO_Costructor/Ejercicio58.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/22_POO_Costructor/Ejercicio59.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/3_Estructura_condicional_IF/Ejercicio6.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/3_Estructura_condicional_IF/Ejercicio6.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/4_Estructura_condicional_como_expresion/Ejercicio9.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/4_Estructura_condicional_como_expresion/Ejercicio9.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -40,34 +42,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.EjemplosKt.executor": "Run",
-    "Kotlin.Ejercicio10Kt.executor": "Run",
-    "Kotlin.Ejercicio11Kt.executor": "Run",
-    "Kotlin.Ejercicio6Kt.executor": "Run",
-    "Kotlin.Ejercicio8Kt.executor": "Run",
-    "Kotlin.Ejercicio9Kt.executor": "Run",
-    "Kotlin.MainKt.executor": "Run",
-    "Kotlin.Problema1Kt (1).executor": "Run",
-    "Kotlin.Problema1Kt.executor": "Run",
-    "Kotlin.Problema2Kt (1).executor": "Run",
-    "Kotlin.Problema2Kt.executor": "Run",
-    "Kotlin.Problema3Kt.executor": "Run",
-    "Kotlin.Proyecto2Kt (1).executor": "Run",
-    "Kotlin.Proyecto2Kt.executor": "Run",
-    "Kotlin.Proyecto5Kt.executor": "Run",
-    "Kotlin.Proyecto6Kt.executor": "Run",
-    "Kotlin.Proyecto7Kt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Estudiante/Documents/Kotlin",
-    "onboarding.tips.debug.path": "C:/Users/Estudiante/IdeaProjects/Kotlin/src/Main.kt"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.EjemplosKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ejercicio10Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ejercicio11Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ejercicio6Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ejercicio8Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ejercicio9Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Ejericio53Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problema1Kt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problema1Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problema2Kt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problema2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Problema3Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Proyecto2Kt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Proyecto2Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Proyecto5Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Proyecto6Kt.executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.Proyecto7Kt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Estudiante/Documents/Kotlin&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Estudiante/IdeaProjects/Kotlin/src/Main.kt&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Kotlin.Problema3Kt">
+}</component>
+  <component name="RunManager" selected="Kotlin.Problema1Kt">
     <configuration name="Ejercicio6Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="3_Estructura_condicional_IF.Ejercicio6Kt" />
       <module name="Kotlin" />
@@ -75,15 +78,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ejercicio9Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="4_Estructura_condicional_como_expresion.Ejercicio9Kt" />
+    <configuration name="Ejericio53Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="21_POO_Conceptos.Ejericio53Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Problema1Kt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Estructuras_condicionales_anidadas.Problema1Kt" />
+    <configuration name="Problema1Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="21_POO_Conceptos.Problema1Kt" />
       <module name="Kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -105,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Problema1Kt" />
+        <item itemvalue="Kotlin.Ejericio53Kt" />
         <item itemvalue="Kotlin.Problema3Kt" />
         <item itemvalue="Kotlin.Problema2Kt (1)" />
         <item itemvalue="Kotlin.Ejercicio6Kt" />
-        <item itemvalue="Kotlin.Ejercicio9Kt" />
-        <item itemvalue="Kotlin.Problema1Kt (1)" />
       </list>
     </recent_temporary>
   </component>
